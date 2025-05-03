@@ -1,1 +1,1 @@
-# .github
+# SmartPoint Solutions Corp
